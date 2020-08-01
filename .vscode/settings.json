@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3faeda44-5850-4980-9304-7bf129af5d19/resourceGroups/services-web/providers/Microsoft.Web/sites/angularmasterudemy",
+    "appService.deploySubpath": "dist\\AprendiendoAngular"
+}
